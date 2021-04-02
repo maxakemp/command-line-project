@@ -5,7 +5,7 @@ const object = {
   name: 'Ethan',
   number: 42,
   isAdmin: true,
-  pets: ['jake', 'cookie', 'gracie']
+  pets: ['tretola', 'cookie', 'gracie']
 }
 
 
